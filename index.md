@@ -1,6 +1,6 @@
 # Erik van Zuijdam
 
-![Image of Erik](erik-removebg-preview.png")
+![Image of Erik](erik-removebg-preview.png)
 
 Welcome to my github pages. You can visit my my [github repo](https://github.com/Zuijdam/) to look at the rather boring source of this page.
 

@@ -1,6 +1,6 @@
 # Erik van Zuijdam
 
-Welcome to my Github pages. You can visit [Github repository](https://github.com/Zuijdam/) to look at the rather boring source of this page.
+Welcome to my Github pages. You can visit my [Github account](https://github.com/Zuijdam/) to look at the rather boring source of this page in [this repository](https://github.com/Zuijdam/zuijdam.github.io) or browse other projects.
 
 Visit my [LinkedIn](https://www.linkedin.com/in/zuijdam) profile to learn more about my professional life and also get in touch if you think I should work for you or have interesting opportunities.
 

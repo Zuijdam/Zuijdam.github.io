@@ -2,7 +2,7 @@
 
 Welcome to my Github pages. You can visit my my [Github repository](https://github.com/Zuijdam/) to look at the rather boring source of this page.
 
-Visit my [LinkedIn](https://www.linkedin.com/in/zuijdam) profile to learn more about my professional life and also get in touch if you think I should work for you or have interesting opportunities.
+Visit my [LinkedIn](https://www.linkedin.com/in/zuijdam) profile to learn more about my professional life and get in touch if you think I should work for you or if you have interesting opportunities.
 
 At the [digitaletuin](https://www.dedigitaletuin.nl) (digital garden) I post most of my different little site projects on the garden. Not on the garden but worth mentioning is my [Dooddoener api](https://api.erikvanzuijdam.nl/dooddoener.php)
 

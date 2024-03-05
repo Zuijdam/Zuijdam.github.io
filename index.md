@@ -1,4 +1,4 @@
-# Erik van Zuijdam
+# Erik van Zuijdam ☻
 
 Welcome to my Github pages. You can visit my [Github account](https://github.com/Zuijdam/) to look at the rather boring source of this page in [this repository](https://github.com/Zuijdam/zuijdam.github.io) or browse other projects.
 
